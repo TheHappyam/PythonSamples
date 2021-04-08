@@ -1,2 +1,2 @@
 # PythonSamples
-Python Sample Codes
+Sample Python Codes
